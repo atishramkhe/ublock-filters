@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/atishramkhe/ublock-filters/main
+https://raw.githubusercontent.com/atishramkhe/ublock-filters/main/filters.txt
