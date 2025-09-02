@@ -1,0 +1,205 @@
+@@||html-load.com^$media
+
+! May 3, 2025 https://pstream.org
+||files.waifu.cat/68e29533.gif$image
+pstream.org##.mx-4.pt-2.text-center.text-type-dimmed.text-xs > [href]
+||files.waifu.cat/68e29533.gif$image
+
+! Aug 31, 2025 https://ppv.to
+ppv.to##.rounded-0.bg-darker.card
+
+! Aug 31, 2025 https://anime-sama.fr
+anime-sama.fr##a.duration-200.transition-all.hover\:brightness-50.text-white.text-center.inline-flex > .m-2.h-5.w-5 > path
+anime-sama.fr##.pb-2.mt-32.opacity-50.font-medium.text-center.text-white.text-sm
+anime-sama.fr##.md\:text-sm.text-xs.md\:grid-cols-5.grid-cols-3.grid
+anime-sama.fr##[href^="https://www.paypal.com/donate/"]
+! Sep 1, 2025 https://anime-sama.fr
+anime-sama.fr##.dark\:text-gray-400.sm\:text-center.font-bold.text-gray-500.md\:text-sm.text-xs.flex
+||cdn.statically.io/gh/Anime-Sama/IMG/img/autres/logo_banniere.png$image
+anime-sama.fr##.border-sky-900.border-t-2.sm\:p-6.p-4
+
+! Aug 31, 2025 https://vavoo.to
+vavoo.to##div:nth-of-type(8) > div:nth-of-type(1)
+
+! Aug 31, 2025 https://daddylivestream.com
+daddylivestream.com##div.box:nth-of-type(1)
+daddylivestream.com##div.box:nth-of-type(2)
+daddylivestream.com##center > p
+daddylivestream.com###txtarea
+daddylivestream.com###footer
+daddylivestream.com##[href="https://t.me/dlhdlive"]
+daddylivestream.com##[href="https://discord.gg/MqXusreQ2w"]
+daddylivestream.com##[href="#"]
+daddylivestream.com##[href="contact-us.php"]
+daddylivestream.com##[href="/schedule/schedule-generated.php"]
+
+! Aug 31, 2025 https://thedaddy.top
+thedaddy.top##div.box:nth-of-type(1)
+thedaddy.top##div.box:nth-of-type(2)
+thedaddy.top##center > p
+thedaddy.top###txtarea
+thedaddy.top###footer
+thedaddy.top##[href="https://t.me/dlhdlive"]
+thedaddy.top##[href="https://discord.gg/MqXusreQ2w"]
+thedaddy.top##[href="#"]
+thedaddy.top##[href="contact-us.php"]
+thedaddy.top##[href="/schedule/schedule-generated.php"]
+
+! Aug 31, 2025 https://streamed.pk
+streamed.pk##a.text-foreground\/60.hover\:text-foreground\/80.transition-colors:nth-of-type(3)
+streamed.pk##.p-2.w-10.h-10.border.hover\:text-accent-foreground.hover\:bg-accent.bg-background.border-input.\[\&_svg\]\:shrink-0.\[\&_svg\]\:size-4.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-offset-2.focus-visible\:ring-2.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex.focus-visible\:ring-ring.ring-offset-background
+streamed.pk##.pt-3.p-4.h-\[330px\]
+streamed.pk##.h-\[70px\].items-center.py-3.px-4.justify-between.flex.rounded-t-lg.bg-secondary
+streamed.pk##.relative.p-2.drop-shadow-lg.rounded-lg.border-2.border-border\/40.h-auto.w-full
+
+! Aug 31, 2025 https://v8.animesultra.net
+v8.animesultra.net##.header-group > .ultra-group > .zrg-list > .item > .tl-btn.zr-social-button
+v8.animesultra.net##.footer-joingroup > .ultra-group > .clearfix
+v8.animesultra.net##.footer-joingroup > .ultra-group
+v8.animesultra.net##p:nth-of-type(1)
+v8.animesultra.net##.footer-links > .ulclear > li > [href]
+v8.animesultra.net##p:nth-of-type(2)
+
+! Sep 1, 2025 https://xprime.tv
+xprime.tv##.svelte-xy5cn2.desktop-left-section > .svelte-xy5cn2.discord-link > .svelte-xy5cn2.discord-icon
+xprime.tv##.svelte-yvfndm > .svelte-1j2q5nb
+
+! Sep 1, 2025 https://watch.spencerdevs.xyz
+watch.spencerdevs.xyz##.mb-8.relative
+
+! Sep 1, 2025 https://anime-sama.fr
+anime-sama.fr##.rounded.bg-opacity-70.bg-slate-900.mt-2.items-center.justify-center.flex-wrap.flex > .duration-200.transition-all.my-2.mr-5.p-3.py-1.outline-1.outline-gray-500.outline.cursor-pointer.items-center.justify-center.text-white.font-semibold.uppercase.rounded.hover\:opacity-80.bg-stone-900.flex
+anime-sama.fr###prevEpisode > .md\:block.hidden
+anime-sama.fr###nextEpisode > .md\:block.hidden
+anime-sama.fr##.rounded.bg-opacity-70.bg-slate-900.my-2.items-center.justify-center.flex-wrap.flex > .duration-200.transition-all.my-2.mr-5.p-3.py-1.outline-1.outline-gray-500.outline.cursor-pointer.items-center.justify-center.text-white.font-semibold.uppercase.rounded.hover\:opacity-80.bg-stone-900.flex
+anime-sama.fr##.opacity-80.uppercase.lg\:text-sm.ml-2.text-xs.text-white
+anime-sama.fr##.italic.mt-2.text-center.text-white
+anime-sama.fr##.rounded.bg-opacity-70.bg-slate-900.mt-2.items-center.justify-center.flex-wrap.flex
+
+! Sep 1, 2025 https://quelbut.me
+quelbut.me##.panel-body > span
+quelbut.me##.form-control
+quelbut.me##p:nth-of-type(1)
+quelbut.me##p:nth-of-type(2)
+quelbut.me##footer > .container
+quelbut.me##footer
+
+! Sep 1, 2025 https://www.movix.site
+www.movix.site##.overflow-hidden.relative.mt-0.py-8.text-gray-300.bg-black > .h-full.w-full.inset-0.absolute
+www.movix.site##.overflow-hidden.relative.mt-0.py-8.text-gray-300.bg-black
+
+! Sep 1, 2025 https://cinepulse.to
+cinepulse.to##.lg\:items-center.items-start.justify-between.lg\:gap-10.gap-5.lg\:flex-row.flex-col.flex.p-8.rounded-lg.bg-pantone-100\/10.w-full
+cinepulse.to##.gap-10.justify-between.flex-col.flex.md\:px-10.px-6.container
+
+! Sep 1, 2025 https://xalaflix.gg
+xalaflix.gg##.vfx-item-ptb.footer-area
+xalaflix.gg###xal-anti-phish-bubble
+
+! Sep 1, 2025 https://coflix.cc
+coflix.cc##.marquee
+coflix.cc##.announce
+coflix.cc##.mb2.tac.px2.c-py2.py1.por.black-bgt-5.brd1.fb1.msg
+
+! Sep 1, 2025 https://www.filmoflix.is
+www.filmoflix.is##.m-info
+www.filmoflix.is##.footer
+
+! Sep 1, 2025 https://cinestream.info
+cinestream.info##.text-muted-foreground.text-xs.pt-4.border-primary.border-t-2.max-w-6xl.mt-8.mb-4.sm\:my-2.lg\:py-2.px-4.mx-auto.container
+cinestream.info##p.text-gray-300:nth-of-type(1)
+cinestream.info##p.text-gray-300:nth-of-type(2)
+
+! Sep 1, 2025 https://www.toonanime.biz
+www.toonanime.biz##.px-2.md\:mb-6.py-4.mb-16.m-4
+
+! Sep 1, 2025 https://animekai.to
+animekai.to##.alert-secondary.alert
+
+! Sep 1, 2025 https://yflix.to
+yflix.to##.social-sharing
+yflix.to##footer > .container
+
+! Sep 1, 2025 https://animekai.to
+animekai.to##.bot-footer > .container > .wrapper
+animekai.to##.menu-footer
+animekai.to###social-sharing
+animekai.to##.mb-3.text-center
+animekai.to##.mb-5.text-center
+
+! Sep 1, 2025 https://dramago.me
+dramago.me##[href="https://dramago.me/dmca"]
+dramago.me##li:nth-of-type(7)
+dramago.me##div.col-md-6.col-sm-4.col-xs-12 [href]
+dramago.me##.footer-credit
+dramago.me###wptelegram_widget_join_channel-3 > div > .aligncenter.wp-block-wptelegram-widget-join-channel > .has-icon.has-text.is-large.join-link.components-button
+dramago.me###wptelegram_widget_join_channel-4 > div > .aligncenter.wp-block-wptelegram-widget-join-channel > .has-icon.has-text.is-large.join-link.components-button
+dramago.me###wptelegram_widget_join_channel-6 > div > .aligncenter.wp-block-wptelegram-widget-join-channel > .has-icon.has-text.is-large.join-link.components-button
+||dramago.me/wp-content/themes/halimmovies/assets/images/warning.png$image
+
+! Sep 1, 2025 https://comick.io
+comick.io##.py-16 > .py-2.text-xs.text-center
+
+! Sep 1, 2025 https://weebcentral.com
+weebcentral.com##.p-10.text-base-content.footer-horizontal.footer-center.footer.bg-base-300
+
+! Sep 1, 2025 https://anime-sama.fr
+anime-sama.fr##.pointer-events-none.z-50.m-7.right-0.bottom-0.fixed
+anime-sama.fr##body:style(background: black !important;)
+
+! Sep 1, 2025 https://w2.animeko.ws
+||e.widgetbot.io/channels/530199242707435542/575455665229922304?api=c5210d8c-b7f6-4fa6-9327-ac71b723be2d$subdocument
+w2.animeko.ws##.rounded.p-2.bg-gray-900.items-center.flex-row.flex
+||e.widgetbot.io/channels/530199242707435542/575455665229922304?api=c5210d8c-b7f6-4fa6-9327-ac71b723be2d$subdocument
+||e.widgetbot.io/channels/530199242707435542/575455665229922304?api=c5210d8c-b7f6-4fa6-9327-ac71b723be2d$subdocument
+w2.animeko.ws##.mb-8.discord
+w2.animeko.ws##footer
+
+! Sep 1, 2025 https://distro.tv
+||distro.tv/img/app_logos/fireTV.png$image
+||distro.tv/img/mainBackground.png$image
+||distro.tv/img/app_logos/xiaomi.png$image
+||distro.tv/img/app_logos/samsung.png$image
+||distro.tv/img/app_logos/xiaomi.png$image
+||distro.tv/img/app_logos/samsung.png$image
+||distro.tv/img/app_logos/samsung.png$image
+||distro.tv/img/app_logos/samsung.png$image
+||distro.tv/img/app_logos/samsung.png$image
+||distro.tv/img/app_logos/samsung.png$image
+||distro.tv/img/app_logos/androidTV.png$image
+||distro.tv/img/app_logos/androidTV.png$image
+||distro.tv/img/app_logos/androidTV.png$image
+||distro.tv/img/mainBackground.png$image
+||distro.tv/img/app_logos/lg.png$image
+||distro.tv/img/app_logos/ios.png$image
+
+! Sep 1, 2025 https://einthusan.tv
+einthusan.tv##.tips > div > [href^="/buy/"]
+einthusan.tv##a:nth-of-type(2)
+einthusan.tv##a:nth-of-type(3)
+
+! Sep 1, 2025 https://ppv.to
+ppv.to##.mt-4.alert-dismissible.alert-danger.alert
+ppv.to##.mt-4.alert-dismissible.alert-warning.alert
+ppv.to##.mt-2.alert-dismissible.alert-danger.alert
+
+! Sep 1, 2025 https://kisskh.ovh
+kisskh.ovh##.ng-star-inserted.px-3.row
+kisskh.ovh##.mat-toolbar-single-row.h-auto.py-1.justify-content-around.mat-toolbar
+kisskh.ovh##button.mat-button-base.mat-button.ng-tns-c109-0.mat-tooltip-trigger.mat-focus-indicator:nth-of-type(2)
+kisskh.ovh##button.mat-button-base.mat-button.ng-tns-c109-0.mat-tooltip-trigger.mat-focus-indicator:nth-of-type(3)
+kisskh.ovh##.ng-tns-c109-0.row > app-theme.ng-tns-c109-0 > .mat-button-base.mat-button.align-items-center.d-flex.w-100.mat-menu-trigger.mat-tooltip-trigger.mat-focus-indicator
+
+! Sep 1, 2025 https://fstv.lol
+fstv.lol##li.submenu > [href^="/"]
+
+! Sep 1, 2025 https://watch.spencerdevs.xyz
+watch.spencerdevs.xyz##[href="/promo"] > div > .gap-2.items-center.flex.py-2.px-4.h-10.hover\:text-accent-foreground.hover\:bg-accent.\[\&_svg\]\:shrink-0.\[\&_svg\]\:size-4.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-offset-2.focus-visible\:ring-ring.focus-visible\:ring-2.focus-visible\:outline-none.transition-colors.ring-offset-background.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center
+watch.spencerdevs.xyz##.backdrop-blur-lg.text-muted-foreground.text-md.py-6.w-full
+
+! Sep 1, 2025 https://coflix.cc
+coflix.cc##.marquee-wrapper
+
+! Sep 1, 2025 https://dramacool.com.tr
+dramacool.com.tr##.fanpage.block
+dramacool.com.tr##footer
