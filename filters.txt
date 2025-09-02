@@ -15,7 +15,7 @@ anime-sama.fr##.md\:text-sm.text-xs.md\:grid-cols-5.grid-cols-3.grid
 anime-sama.fr##[href^="https://www.paypal.com/donate/"]
 ! Sep 1, 2025 https://anime-sama.fr
 anime-sama.fr##.dark\:text-gray-400.sm\:text-center.font-bold.text-gray-500.md\:text-sm.text-xs.flex
-||cdn.statically.io/gh/Anime-Sama/IMG/img/autres/logo_banniere.png$image
+!||cdn.statically.io/gh/Anime-Sama/IMG/img/autres/logo_banniere.png$image
 anime-sama.fr##.border-sky-900.border-t-2.sm\:p-6.p-4
 
 ! Aug 31, 2025 https://vavoo.to
@@ -203,3 +203,24 @@ coflix.cc##.marquee-wrapper
 ! Sep 1, 2025 https://dramacool.com.tr
 dramacool.com.tr##.fanpage.block
 dramacool.com.tr##footer
+
+! Sep 2, 2025 https://kaa.to
+kaa.to##a.v-size--default.theme--dark.v-btn--round.v-btn--icon.v-btn.ml-2 > .v-btn__content > svg > path
+kaa.to##a.v-size--default.theme--dark.v-btn--round.v-btn--icon.v-btn.ml-2:nth-of-type(2)
+kaa.to##a.v-size--default.theme--dark.v-btn--round.v-btn--icon.v-btn.ml-2:nth-of-type(3)
+kaa.to##.mb-1.row
+kaa.to##.theme--dark.v-sheet--outlined.v-sheet.v-card
+
+! Sep 2, 2025 https://animepahe.ru
+animepahe.ru##.ann-fakesite.show.fade.alert-dismissible.alert-top.alert
+
+! Sep 2, 2025 https://hianime.to
+hianime.to##.footer-links
+hianime.to##.about-text
+hianime.to##.copyright
+
+! Sep 2, 2025 https://streamed.pk
+streamed.pk##.rounded-lg.text-white.bg-primary\/60.text-center.p-6
+
+! Sep 2, 2025 https://anime-sama.fr
+anime-sama.fr##.ml-2.mt-3.text-center.lg\:block.hidden.inline-flex
