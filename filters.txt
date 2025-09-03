@@ -15,7 +15,6 @@ anime-sama.fr##.md\:text-sm.text-xs.md\:grid-cols-5.grid-cols-3.grid
 anime-sama.fr##[href^="https://www.paypal.com/donate/"]
 ! Sep 1, 2025 https://anime-sama.fr
 anime-sama.fr##.dark\:text-gray-400.sm\:text-center.font-bold.text-gray-500.md\:text-sm.text-xs.flex
-!||cdn.statically.io/gh/Anime-Sama/IMG/img/autres/logo_banniere.png$image
 anime-sama.fr##.border-sky-900.border-t-2.sm\:p-6.p-4
 
 ! Aug 31, 2025 https://vavoo.to
@@ -224,3 +223,12 @@ streamed.pk##.rounded-lg.text-white.bg-primary\/60.text-center.p-6
 
 ! Sep 2, 2025 https://anime-sama.fr
 anime-sama.fr##.ml-2.mt-3.text-center.lg\:block.hidden.inline-flex
+
+! Sep 2, 2025 https://www.reddit.com
+www.reddit.com##faceplate-tracker > .hover\:underline.text-12.visited\:text-secondary-plain-weak.no-visited.hover\:text-secondary-plain-hover.text-secondary-plain-weak.cursor-pointer.a
+www.reddit.com##span.text-12.max-h-\[var\(--rem20\)\].overflow-hidden.text-ellipsis.whitespace-nowrap.inline-block > .hover\:underline.text-12.visited\:text-secondary-plain-weak.no-visited.hover\:text-secondary-plain-hover.text-secondary-plain-weak.cursor-pointer.a
+www.reddit.com##.px-md.text-10.text-tone-2.no-underline
+
+! Sep 3, 2025 https://www.redgifs.com
+www.redgifs.com##.adSideBar
+
