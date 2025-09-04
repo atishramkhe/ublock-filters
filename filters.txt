@@ -44,12 +44,12 @@ thedaddy.top##[href="#"]
 thedaddy.top##[href="contact-us.php"]
 thedaddy.top##[href="/schedule/schedule-generated.php"]
 
-! Aug 31, 2025 https://streamed.pk
-streamed.pk##a.text-foreground\/60.hover\:text-foreground\/80.transition-colors:nth-of-type(3)
-streamed.pk##.p-2.w-10.h-10.border.hover\:text-accent-foreground.hover\:bg-accent.bg-background.border-input.\[\&_svg\]\:shrink-0.\[\&_svg\]\:size-4.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-offset-2.focus-visible\:ring-2.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex.focus-visible\:ring-ring.ring-offset-background
-streamed.pk##.pt-3.p-4.h-\[330px\]
-streamed.pk##.h-\[70px\].items-center.py-3.px-4.justify-between.flex.rounded-t-lg.bg-secondary
-streamed.pk##.relative.p-2.drop-shadow-lg.rounded-lg.border-2.border-border\/40.h-auto.w-full
+! Aug 31, 2025 https://streamed.pk,streami.su
+streamed.pk,streami.su,streamed.st##a.text-foreground\/60.hover\:text-foreground\/80.transition-colors:nth-of-type(3)
+streamed.pk,streami.su,streamed.st##.p-2.w-10.h-10.border.hover\:text-accent-foreground.hover\:bg-accent.bg-background.border-input.\[\&_svg\]\:shrink-0.\[\&_svg\]\:size-4.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-offset-2.focus-visible\:ring-2.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex.focus-visible\:ring-ring.ring-offset-background
+streamed.pk,streami.su,streamed.st##.pt-3.p-4.h-\[330px\]
+streamed.pk,streami.su,streamed.st##.h-\[70px\].items-center.py-3.px-4.justify-between.flex.rounded-t-lg.bg-secondary
+streamed.pk,streami.su,streamed.st##.relative.p-2.drop-shadow-lg.rounded-lg.border-2.border-border\/40.h-auto.w-full
 
 ! Aug 31, 2025 https://v8.animesultra.net
 v8.animesultra.net##.header-group > .ultra-group > .zrg-list > .item > .tl-btn.zr-social-button
@@ -219,7 +219,7 @@ hianime.to##.about-text
 hianime.to##.copyright
 
 ! Sep 2, 2025 https://streamed.pk
-streamed.pk##.rounded-lg.text-white.bg-primary\/60.text-center.p-6
+streamed.pk,streami.su,streamed.st##.rounded-lg.text-white.bg-primary\/60.text-center.p-6
 
 ! Sep 2, 2025 https://anime-sama.fr
 anime-sama.fr##.ml-2.mt-3.text-center.lg\:block.hidden.inline-flex
@@ -231,4 +231,15 @@ www.reddit.com##.px-md.text-10.text-tone-2.no-underline
 
 ! Sep 3, 2025 https://www.redgifs.com
 www.redgifs.com##.adSideBar
+
+! Sep 4, 2025 https://streamed.pk
+streamed.pk,streami.su,streamed.st##.block.transition-all.h-full.max-w-full.md\:w-1\/4
+streamed.pk,streami.su,streamed.st##.w-full.sm\:w-auto.gap-1.flex.px-3.rounded-md.h-9.border.hover\:text-accent-foreground.hover\:bg-accent.bg-background.border-input.\[\&_svg\]\:shrink-0.\[\&_svg\]\:size-4.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-offset-2.focus-visible\:ring-2.focus-visible\:outline-none.transition-colors.font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex.focus-visible\:ring-ring.ring-offset-background
+
+! Sep 4, 2025 https://ntvstream.cx
+ntvstream.cx##.discord.icon-btn
+ntvstream.cx##.telegram.icon-btn
+
+! Sep 4, 2025 https://streamed.pk
+streamed.pk,streami.su,streamed.st##.title-section.py-3.text-center > .text-muted-foreground
 
