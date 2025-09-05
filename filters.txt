@@ -243,3 +243,16 @@ ntvstream.cx##.telegram.icon-btn
 ! Sep 4, 2025 https://streamed.pk
 streamed.pk,streami.su,streamed.st##.title-section.py-3.text-center > .text-muted-foreground
 
+! Sep 5, 2025 https://katmovie18.eu
+katmovie18.eu##h3:nth-of-type(4)
+katmovie18.eu##.p1
+katmovie18.eu##h3:nth-of-type(5)
+katmovie18.eu##.entry-content > div > h4
+katmovie18.eu##p:nth-of-type(5)
+||disqus.com/embed/comments/?base=default&f=katmovie18&t_u=https%3A%2F%2Fkatmovie18.eu%2Fflower-girl-2025%2F&t_d=Flower%20Girl%20(2025)%20UNRATED%20WEBRip%201080p%20720p%20480p%20%5BIn%20Tagalog%20%2B%20ESubs%5D%20Erotic%20Movie%20%5BWatch%20Online%20%2F%20Download%5D%20%E2%80%93%20KatMovie18&t_t=Flower%20Girl%20(2025)%20UNRATED%20WEBRip%201080p%20720p%20480p%20%5BIn%20Tagalog%20%2B%20ESubs%5D%20Erotic%20Movie%20%5BWatch%20Online%20%2F%20Download%5D%20%E2%80%93%20KatMovie18&s_o=default$subdocument
+katmovie18.eu##.site-footer
+||disqus.com/embed/comments/*$subdocument
+
+! Sep 5, 2025 https://atishramkhe.github.io
+atishramkhe.github.io###access-overlay
+
