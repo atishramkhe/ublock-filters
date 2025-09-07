@@ -315,4 +315,53 @@ streamdb.online##.justify-center.items-center.flex-col.flex.py-5.px-2.z-10.relat
 ! Sep 5, 2025 https://soapy.to
 soapy.to##.py-6.footer
 
+! Sep 5, 2025 https://flemmix.sbs
+||flemmix.sbs/templates/flemmixnew/images/bg.jpg$image
+||flemmix.sbs/templates/flemmixnew/images/bg.jpg$image
+
+! Sep 5, 2025 https://coflix.cc
+coflix.cc###menu-item-43731 > [href="https://t.me/+3i7POlIHqqVmMWMx"]
+coflix.cc###menu-item-11379 > [href="https://coflix.chat/"]
+
+! Sep 6, 2025 https://fibwatch.art
+fibwatch.art###brave-warning
+
+! Sep 6, 2025 https://multimovies.pro
+||multimovies.xyz/wp-content/uploads/2023/05/telegram-logo-computer-icons-telegram-logo-cfc6c213257c1fb0370da89e6c51078b.png$image
+multimovies.pro###block-21 > h3
+||toolsbro.in/HRpromotionBanners/newAllServicesBannerHR.png$image
+||toolsbro.in/HRpromotionBanners/newAllServicesBannerHR.png$image
+||multimovies.xyz/wp-content/uploads/2023/05/telegram-logo-computer-icons-telegram-logo-cfc6c213257c1fb0370da89e6c51078b.png$image
+multimovies.pro##.primary
+multimovies.pro##.fcmpbox
+||image.tmdb.org/t/p/original/jZw47Ga9Jftdpjkm3V1MsXICG3Q.jpg$image
+
+! Sep 6, 2025 https://goplay.su
+goplay.su###indexannouncementhead
+goplay.su###bottomfooter
+
+! Sep 6, 2025 https://asiaflix.net
+asiaflix.net##.text-sm.flex-wrap.flex.py-8
+asiaflix.net##.pb-16.text-neutral-400.text-xs > p
+asiaflix.net##.lg\:text-sm.text-xs.bg-amber-700.py-2.px-4
+
+! Sep 6, 2025 https://dramacool.com.tr
+dramacool.com.tr##.note
+
+! Sep 7, 2025 https://timstreams.xyz
+||motortimstreams.chatango.com/$subdocument
+||motortimstreams.chatango.com/$subdocument
+||motortimstreams.chatango.com/$subdocument
+timstreams.xyz##.nav-buttons > .btn-primary.btn
+timstreams.xyz##.footer
+
+! Sep 7, 2025 https://wearechecking.online
+||www.twitch.tv/embed/wearecheckinglive/chat?darkpopout&parent=wearechecking.online$subdocument
+wearechecking.online##.ttv-switch-wrapper
+||wearechecking.online/media/svg/Head-Foot-fade.png$image
+||wearechecking.online/media/svg/Head-Foot-fade.png$image
+||wearechecking.online/media/svg/Head-Foot-fade.png$image
+||wearechecking.online/media/svg/Head-Foot-fade.png$image
+wearechecking.online##.footer-sets
+wearechecking.online##.header-discord-wrapper
 
