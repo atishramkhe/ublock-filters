@@ -11,21 +11,21 @@
 ! Sep 1, 2025 https://anime-sama.fr
 ! Sep 1, 2025 https://anime-sama.fr
 ! Sep 2, 2025 https://anime-sama.fr
-anime-sama.fr, anime-sama.org###nextEpisode > .md\:block.hidden
-anime-sama.fr, anime-sama.org###prevEpisode > .md\:block.hidden
-anime-sama.fr, anime-sama.org##.border-sky-900.border-t-2.sm\:p-6.p-4
-anime-sama.fr, anime-sama.org##.dark\:text-gray-400.sm\:text-center.font-bold.text-gray-500.md\:text-sm.text-xs.flex
-anime-sama.fr, anime-sama.org##.italic.mt-2.text-center.text-white
-anime-sama.fr, anime-sama.org##.md\:text-sm.text-xs.md\:grid-cols-5.grid-cols-3.grid
-anime-sama.fr, anime-sama.org##.ml-2.mt-3.text-center.lg\:block.hidden.inline-flex
-anime-sama.fr, anime-sama.org##.opacity-80.uppercase.lg\:text-sm.ml-2.text-xs.text-white
-anime-sama.fr, anime-sama.org##.pb-2.mt-32.opacity-50.font-medium.text-center.text-white.text-sm
-anime-sama.fr, anime-sama.org##.pointer-events-none.z-50.m-7.right-0.bottom-0.fixed
-anime-sama.fr, anime-sama.org##.rounded.bg-opacity-70.bg-slate-900.mt-2.items-center.justify-center.flex-wrap.flex
-anime-sama.fr, anime-sama.org##.rounded.bg-opacity-70.bg-slate-900.mt-2.items-center.justify-center.flex-wrap.flex > .duration-200.transition-all.my-2.mr-5.p-3.py-1.outline-1.outline-gray-500.outline.cursor-pointer.items-center.justify-center.text-white.font-semibold.uppercase.rounded.hover\:opacity-80.bg-stone-900.flex
-anime-sama.fr, anime-sama.org##.rounded.bg-opacity-70.bg-slate-900.my-2.items-center.justify-center.flex-wrap.flex > .duration-200.transition-all.my-2.mr-5.p-3.py-1.outline-1.outline-gray-500.outline.cursor-pointer.items-center.justify-center.text-white.font-semibold.uppercase.rounded.hover\:opacity-80.bg-stone-900.flex
-anime-sama.fr, anime-sama.org##a.duration-200.transition-all.hover\:brightness-50.text-white.text-center.inline-flex > .m-2.h-5.w-5 > path
-anime-sama.fr, anime-sama.org##body:style(background: black !important;)
+anime-sama.fr,anime-sama.org###nextEpisode > .md\:block.hidden
+anime-sama.fr,anime-sama.org###prevEpisode > .md\:block.hidden
+anime-sama.fr,anime-sama.org##.border-sky-900.border-t-2.sm\:p-6.p-4
+anime-sama.fr,anime-sama.org##.dark\:text-gray-400.sm\:text-center.font-bold.text-gray-500.md\:text-sm.text-xs.flex
+anime-sama.fr,anime-sama.org##.italic.mt-2.text-center.text-white
+anime-sama.fr,anime-sama.org##.md\:text-sm.text-xs.md\:grid-cols-5.grid-cols-3.grid
+anime-sama.fr,anime-sama.org##.ml-2.mt-3.text-center.lg\:block.hidden.inline-flex
+anime-sama.fr,anime-sama.org##.opacity-80.uppercase.lg\:text-sm.ml-2.text-xs.text-white
+anime-sama.fr,anime-sama.org##.pb-2.mt-32.opacity-50.font-medium.text-center.text-white.text-sm
+anime-sama.fr,anime-sama.org##.pointer-events-none.z-50.m-7.right-0.bottom-0.fixed
+anime-sama.fr,anime-sama.org##.rounded.bg-opacity-70.bg-slate-900.mt-2.items-center.justify-center.flex-wrap.flex
+anime-sama.fr,anime-sama.org##.rounded.bg-opacity-70.bg-slate-900.mt-2.items-center.justify-center.flex-wrap.flex > .duration-200.transition-all.my-2.mr-5.p-3.py-1.outline-1.outline-gray-500.outline.cursor-pointer.items-center.justify-center.text-white.font-semibold.uppercase.rounded.hover\:opacity-80.bg-stone-900.flex
+anime-sama.fr,anime-sama.org##.rounded.bg-opacity-70.bg-slate-900.my-2.items-center.justify-center.flex-wrap.flex > .duration-200.transition-all.my-2.mr-5.p-3.py-1.outline-1.outline-gray-500.outline.cursor-pointer.items-center.justify-center.text-white.font-semibold.uppercase.rounded.hover\:opacity-80.bg-stone-900.flex
+anime-sama.fr,anime-sama.org##a.duration-200.transition-all.hover\:brightness-50.text-white.text-center.inline-flex > .m-2.h-5.w-5 > path
+anime-sama.fr,anime-sama.org##body:style(background: black !important;)
 
 ! Sep 8, 2025 https://animejoker.com
 animejoker.com##.copy
