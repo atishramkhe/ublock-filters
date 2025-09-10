@@ -683,3 +683,42 @@ anime-sama.org##.border-opacity-50.border-white.border-2.rounded-lg.mt.mb-3.bg-o
 anime-sama.org###bannLeft
 anime-sama.org###bannRight
 anime-sama.org##.justify-center.items-center.flex-col.flex
+
+! Sep 9, 2025 https://iptv-web.app
+iptv-web.app##body > .astro-nbpnc35u
+
+! Sep 9, 2025 https://cubiktv.com
+cubiktv.com##.vfx-item-ptb.footer-area
+cubiktv.com##.subscribe-btn-item > [href="https://cubiktv.com/membership_plan"]
+cubiktv.com##.details-item-block
+
+! Sep 10, 2025 https://ajja.tv
+ajja.tv###countdown
+ajja.tv##.xl\:px-0.py-6.sm\:px-12.p-5.xl\:mx-auto.xl\:w-\[1300px\].justify-between.items-center.w-full.flex-wrap.flex
+ajja.tv##.pt-4.mb-\[19\.5px\].xl\:px-0.px-3.xl\:mx-auto.xl\:w-\[1300px\].h-\[62px\].items-center.justify-between.lg\:flex.hidden > div.items-center.flex
+
+! Sep 10, 2025 https://mlbgamepass.com
+mlbgamepass.com##.video_description
+mlbgamepass.com##.container
+mlbgamepass.com##.footer_text > p
+mlbgamepass.com##.footer__para > p
+mlbgamepass.com##.footer
+mlbgamepass.com##.chat_header
+
+! Sep 10, 2025 https://alienflix.net
+alienflix.net##.sm\:pt-36.sm\:px-14.sm\:gap-0.pt-32.pb-6.px-8.gap-3.justify-between.items-end.flex-wrap.flex
+alienflix.net##.bottom-32.sm\:right-10.ease-in-out.transition-all.shadow-xl.overflow-hidden.gap-2.justify-center.items-center.flex-col.flex.z-50.right-4.fixed.btn-primary.btn-square.btn
+alienflix.net##.md\:bottom-10.bottom-6.sm\:right-10.ease-in-out.transition-all.shadow-xl.overflow-hidden.gap-2.justify-center.items-center.flex-col.flex.z-50.right-4.fixed.btn-primary.btn-square.btn
+alienflix.net##.pt-10.p-4.bg-base-100.rounded-b-3xl.gap-2.justify-between.items-center.flex.-mt-10 > div > .btn-sm.btn-neutral.btn
+
+! Sep 10, 2025 https://witv.soccer
+witv.soccer##.dle-comm
+witv.soccer##footer
+witv.soccer##body:style(background: black !important;)
+witv.soccer##.titleheader > p
+witv.soccer##.e-swipe.tabs-links > .active
+witv.soccer##.modal-login
+||witv.soccer/templates/witv/images/fav.svg$image
+witv.soccer##.e-swipe.tabs-links-bottom > .active
+witv.soccer##.titleheader > h2
+
