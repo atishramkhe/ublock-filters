@@ -374,17 +374,13 @@ pstream.org##.mx-4.pt-2.text-center.text-type-dimmed.text-xs > [href]
 ||files.waifu.cat/68e29533.gif$image
 
 ! Sep 1, 2025 https://quelbut.me
-quelbut.me##.form-control
-quelbut.me##.panel-body > span
-quelbut.me##footer
-quelbut.me##footer > .container
-quelbut.me##p:nth-of-type(1)
-quelbut.me##p:nth-of-type(2)
+quelbut.me,quelbut.mom##.form-control
+quelbut.me,quelbut.mom##.panel-body > span
+quelbut.me,quelbut.mom##footer
+quelbut.me,quelbut.mom##footer > .container
+quelbut.me,quelbut.mom##p:nth-of-type(1)
+quelbut.me,quelbut.mom##p:nth-of-type(2)
 
-! Sep 9, 2025 https://quelbut.mom
-quelbut.mom##.form-control
-quelbut.mom##p:nth-of-type(1)
-quelbut.mom##p:nth-of-type(2)
 
 ! Sep 8, 2025 https://radio.vipotv.com
 radio.vipotv.com###footer
@@ -523,7 +519,7 @@ vaughn.live##.vs_v9_header_button_vip > .vs_v9_header_button_150.vs_v9_header_bu
 vaughn.live##.vs_v9_stream_wrapper > .vs_v9_footer
 
 ! Aug 31, 2025 https://vavoo.to
-vavoo.to##div:nth-of-type(8) > div:nth-of-type(1)
+vavoo.to,oha.to,huhu.to##div:nth-of-type(8) > div:nth-of-type(1)
 
 ! Sep 5, 2025 https://veloratv.ru
 veloratv.ru##.hover\:shadow-2xl.hover\:backdrop-blur-none.hover\:scale-110.hover\:bg-black.hover\:opacity-100.opacity-40.backdrop-blur-sm.bg-black\/50.duration-300.transition-all.justify-center.items-center.flex.shadow-lg.border-white.border-2.rounded-full.w-14.h-14.jsx-bb05d069c44f022b
@@ -721,4 +717,56 @@ witv.soccer##.modal-login
 ||witv.soccer/templates/witv/images/fav.svg$image
 witv.soccer##.e-swipe.tabs-links-bottom > .active
 witv.soccer##.titleheader > h2
+witv.soccer##.ann-big-overlay
+witv.soccer##.ann-big-content > h1
+
+sportontv.xyz/##body:style(background: black !important;)
+
+! Sep 11, 2025 https://www.cinezo.net
+www.cinezo.net##.group.md\:ml-1.rounded-full.ml-0\.5.w-10.h-10.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:outline-none.transition-colors.ring-offset-background.font-medium.text-sm.justify-center.items-center.inline-flex
+
+! Sep 11, 2025 https://french-anime.com
+french-anime.com##.center.footer
+
+! Sep 11, 2025 https://streaming-integrale.com
+streaming-integrale.com##.WebDescription > p > span
+streaming-integrale.com##.Container.Top > .BgA.MnBrCn > .EcBgA.MnBr > .Container
+
+! Sep 11, 2025 https://ww7.vostanime.fr
+ww7.vostanime.fr##.Container.Bot > div
+ww7.vostanime.fr##.Container.Top > .BgA.MnBrCn > .EcBgA.MnBr > .Container
+ww7.vostanime.fr##main > .Wdgt
+
+! Sep 11, 2025 https://w2.animeko.ws
+w2.animeko.ws##widgetbot-crate
+w2.animeko.ws###comments > div
+w2.animeko.ws##[href^="https://api.simkl.com/redirect"]
+
+! Sep 11, 2025 https://einthusan.tv
+einthusan.tv##.interaction-bar
+einthusan.tv###UIFooter
+
+! Sep 11, 2025 https://www.kordoz.com
+www.kordoz.com##.fadeIn
+
+! Sep 12, 2025 https://cinepulse.to
+cinepulse.to##.-mt-5.italic.text-sm.rounded-lg.px-5.py-3.my-0.bg-red-700.w-full.font-medium.text-type-text
+
+! Sep 12, 2025 https://tvpass.org
+tvpass.org##.py-6.text-gray-300.bg-gray-800
+tvpass.org##article.border-gray-200.border.py-0.px-6.rounded-lg.shadow-lg.bg-white > .mt-6
+
+! Sep 12, 2025 https://mangakatana.com
+mangakatana.com##.sonar-emitter
+mangakatana.com###chapter_bottom > .uk-text-center.uk-overflow-container.uk-container.hxtc > .uk-grid-medium.uk-grid > div.uk-width-small-1-2 > .confirm_remove_ad_bt.uk-button-small.uk-button
+mangakatana.com##.report_bt.uk-button-danger.uk-button
+mangakatana.com##.uk-text-center.uk-alert-danger.uk-alert
+mangakatana.com###copyright
+
+! Sep 13, 2025 https://animetsu.to
+animetsu.to##.ml-2.smoothie.hover\:animate-spin.brightness-105.hover\:text-pink-600.text-gray-300
+animetsu.to##.lg\:justify-between.lg\:items-center.lg\:min-h-\[12rem\].lg\:flex.bg-\[\#0a0b0e\].md\:py-8.py-2.mt-\[2px\].z-40.text-\[\#dbdcdd\]
+
+! Sep 13, 2025 https://quelbut.mom
+quelbut.mom##.nopadding.hidden-xs.col-sm-12.col-md-3 > .panel-primary.panel
 
