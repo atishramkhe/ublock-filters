@@ -732,10 +732,6 @@ french-anime.com##.center.footer
 streaming-integrale.com##.WebDescription > p > span
 streaming-integrale.com##.Container.Top > .BgA.MnBrCn > .EcBgA.MnBr > .Container
 
-! Sep 11, 2025 https://ww7.vostanime.fr
-ww7.vostanime.fr##.Container.Bot > div
-ww7.vostanime.fr##.Container.Top > .BgA.MnBrCn > .EcBgA.MnBr > .Container
-ww7.vostanime.fr##main > .Wdgt
 
 ! Sep 11, 2025 https://w2.animeko.ws
 w2.animeko.ws##widgetbot-crate
@@ -769,4 +765,59 @@ animetsu.to##.lg\:justify-between.lg\:items-center.lg\:min-h-\[12rem\].lg\:flex.
 
 ! Sep 13, 2025 https://quelbut.mom
 quelbut.mom##.nopadding.hidden-xs.col-sm-12.col-md-3 > .panel-primary.panel
+
+! Sep 13, 2025 https://aniwave.at
+aniwave.at##.relative.mt-4.bg-card-background
+aniwave.at##a.duration-200.transition-all.justify-center.items-center.flex.rounded-xl.h-10.w-10.hover\:bg-white\/20.group.relative:nth-of-type(3)
+
+! Sep 15, 2025 http://mrgamingstreams.org
+mrgamingstreams.org##[href^="https://www.rekraken.com"]
+
+! Sep 16, 2025 https://456movie.net
+456movie.net##li:nth-of-type(6)
+456movie.net##div > div > span
+456movie.net##p
+456movie.net##div > div > div > div > h2
+456movie.net##.lucide-clapperboard.lucide
+456movie.net##div > div > div > div > div
+
+! Sep 16, 2025 https://ntvstream.cx
+ntvstream.cx##.browse-section
+ntvstream.cx##.hero-buttons
+ntvstream.cx##.hero-pill
+ntvstream.cx##.navbar-menu [href="./about_us"]
+ntvstream.cx##.navbar-menu [href="./dmca.txt"]
+
+! Sep 16, 2025 https://www.french-streaming.tv
+www.french-streaming.tv##.clearfix.pages
+
+! Sep 16, 2025 https://v6.voiranime.com
+v6.voiranime.com##.social-icons
+v6.voiranime.com##[href="mailto:voiranime@gmail.com"]
+v6.voiranime.com##.copyright > p
+v6.voiranime.com##.site-footer
+
+! Sep 16, 2025 https://vostfree.ws
+vostfree.ws##.lastpost-header
+vostfree.ws###ads > div > div
+vostfree.ws##.footer-desc
+vostfree.ws##.footer-top
+vostfree.ws##.footer-alt-content
+vostfree.ws##.footer-alt
+vostfree.ws##.header-top
+
+! Sep 16, 2025 https://animesultra.org
+animesultra.org##.footer-joingroup > .ultra-group > .zrg-title > .bottom
+animesultra.org##p:nth-of-type(1)
+animesultra.org##p:nth-of-type(2)
+animesultra.org##.footer-links
+animesultra.org##.footer-top
+
+! Sep 16, 2025 https://ww7.vostanime.fr
+ww7.vostanime.fr##.Container.Bot > div
+ww7.vostanime.fr##.Container.Top > .BgA.MnBrCn > .EcBgA.MnBr > .Container
+ww7.vostanime.fr###comments
+
+! Sep 16, 2025 https://streamed.pk
+streamed.pk,streami.su,streamed.st##.bg-primary\/10.dark\:border-primary.text-primary.border-primary\/50.font-medium.py-2.px-6.border-b.border-t-0.border-x-0.rounded-none.\[\&\>svg\~\*\]\:pl-7.\[\&\>svg\]\:top-4.\[\&\>svg\]\:left-4.\[\&\>svg\]\:absolute.p-4.border.w-full.relative.\[\&\>svg\]\:text-foreground
 
