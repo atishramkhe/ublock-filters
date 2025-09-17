@@ -821,3 +821,12 @@ ww7.vostanime.fr###comments
 ! Sep 16, 2025 https://streamed.pk
 streamed.pk,streami.su,streamed.st##.bg-primary\/10.dark\:border-primary.text-primary.border-primary\/50.font-medium.py-2.px-6.border-b.border-t-0.border-x-0.rounded-none.\[\&\>svg\~\*\]\:pl-7.\[\&\>svg\]\:top-4.\[\&\>svg\]\:left-4.\[\&\>svg\]\:absolute.p-4.border.w-full.relative.\[\&\>svg\]\:text-foreground
 
+! Sep 17, 2025 https://recherche-stream.fr
+recherche-stream.fr##.discord-popup
+
+! Sep 17, 2025 https://sadisflix.online
+sadisflix.online##.mascot-container
+sadisflix.online##.fav-info-premium
+sadisflix.online###footer
+sadisflix.online##.m-t-10.alert-success.alert
+
