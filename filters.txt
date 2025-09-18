@@ -830,3 +830,38 @@ sadisflix.online##.fav-info-premium
 sadisflix.online###footer
 sadisflix.online##.m-t-10.alert-success.alert
 
+! Sep 18, 2025 https://cinepulse.cc
+cinepulse.cc##.z-10.relative.mt-20.py-10.border-pantone-100\/10.border-t.w-full
+cinepulse.cc##.lg\:items-center.items-start.justify-between.lg\:gap-10.gap-5.lg\:flex-row.flex-col.flex.p-8.rounded-lg.bg-pantone-100\/10.w-full
+
+! Sep 18, 2025 https://coflix.tel
+coflix.tel##.announce
+
+! Sep 18, 2025 https://movix.website
+movix.website##.mt-0.py-8.text-gray-300.bg-black
+movix.website##.md\:p-8.p-6.justify-between.items-center.md\:flex-row.flex-col.flex
+
+einthusan.tv##+js(set, login_completed, true)
+
+
+bitcine.app,cineby.app,tv.verizon.com##+js(aeld, keydown, 123)
+bitcine.app,cineby.app,moflix-stream.day,tv.verizon.com##+js(set, console.clear, trueFunc)
+bitcine.app,cineby.app,moflix-stream.day,tv.verizon.com##+js(set, console.table, trueFunc)
+bitcine.app,cineby.app,moflix-stream.day,tv.verizon.com##+js(set, console.log, trueFunc)
+
+! Sep 18, 2025 https://einthusan.tv
+einthusan.tv###UINotify > div
+
+! Sep 18, 2025 https://dlhd.dad
+dlhd.dad##.watch__notice
+dlhd.dad###embedCode
+dlhd.dad##.watch__embed.watch__group > .watch__actions
+dlhd.dad##.watch__embed.watch__group > label
+dlhd.dad##.navbar__links > [href="https://t.me/daddylive2"]
+dlhd.dad##.navbar__links > [href="https://discord.gg/T8XC4vKxt9"]
+dlhd.dad##.navbar__links > [href="./schedule/schedule-generated.php"]
+dlhd.dad##.navbar__links > [href="/contact.php"]
+dlhd.dad##.navbar__links > [href="/webmasters.php"]
+dlhd.dad##.footer__inner
+dlhd.dad##+js(add-class, chat-hidden, html)
+
