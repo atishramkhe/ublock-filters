@@ -865,6 +865,12 @@ dlhd.dad##.navbar__links > [href="/webmasters.php"]
 dlhd.dad##.footer__inner
 dlhd.dad##+js(add-class, chat-hidden, html)
 
-frembed.live##pjsdiv:has(img[src*="frembed-red-dark.png"])
+atishramkhe.github.io,frembed.live,direct.lat##pjsdiv:has(img[src*="frembed-red-dark.png"])
+atishramkhe.github.io,frembed.live,direct.lat##pjsdiv[bis_size]
 0.0.0.0##pjsdiv:has(img[src*="frembed-red-dark.png"])
+
+streamed.su,streamed.pk,streamed.st##+js(add-class, theater-mode, body)
+
+! Sep 25, 2025 https://movix.website
+movix.website##.animate-fadeIn.transition-opacity.backdrop-blur-sm.bg-opacity-80.bg-black.justify-center.items-center.flex.z-50.inset-0.fixed
 
