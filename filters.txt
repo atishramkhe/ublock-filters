@@ -888,5 +888,7 @@ dlhd.dad##+js(set-local-storage-item, 'debugger_banned222222', '0')
 ! Sep 30, 2025 https://streamed.st
 streamed.st##.bg-primary\/10.dark\:border-primary.text-primary.border-primary\/50.font-medium.py-2.px-8.border-b.border-t-0.border-x-0.rounded-none.relative.\[\&\>svg\~\*\]\:pl-7.\[\&\>svg\]\:top-4.\[\&\>svg\]\:left-4.\[\&\>svg\]\:absolute.p-4.border.w-full.\[\&\>svg\]\:text-foreground
 
+!to allow korean channels
 @@||stream-us-east-1.getpublica.com^
+@@||ssai.aniview.com/api/v1/hls/streams/sessions/*
 
