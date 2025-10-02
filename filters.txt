@@ -865,12 +865,28 @@ dlhd.dad##.navbar__links > [href="/webmasters.php"]
 dlhd.dad##.footer__inner
 dlhd.dad##+js(add-class, chat-hidden, html)
 
-atishramkhe.github.io,frembed.live,direct.lat##pjsdiv:has(img[src*="frembed-red-dark.png"])
-atishramkhe.github.io,frembed.live,direct.lat##pjsdiv[bis_size]
+atishramkhe.github.io,frembed.live,direct.lat,fremtv.lol##pjsdiv:has(img[src*="frembed-red-dark.png"])
+atishramkhe.github.io,frembed.live,direct.lat,fremtv.lol##pjsdiv[bis_size]
 0.0.0.0##pjsdiv:has(img[src*="frembed-red-dark.png"])
+
+directfr.lat##pjsdiv[style*="top: -20px"][style*="left: -33.5px"][style*="width: 67px"][style*="height: 40px"]
+directfr.lat##pjsdiv[bis_size]
 
 streamed.su,streamed.pk,streamed.st##+js(add-class, theater-mode, body)
 
 ! Sep 25, 2025 https://movix.website
 movix.website##.animate-fadeIn.transition-opacity.backdrop-blur-sm.bg-opacity-80.bg-black.justify-center.items-center.flex.z-50.inset-0.fixed
+
+! Sep 26, 2025 https://frembed.sbs
+frembed.sbs##.p-4.shadow.rounded-lg.w-full.border
+frembed.sbs##div.duration-500.transition-all.overflow-hidden.relative.shadow-2xl.border-white\/20.border.rounded-2xl.p-2.w-full:nth-of-type(7)
+frembed.sbs##.dark\:to-black-200\/20.dark\:via-black-400\/10.dark\:from-black-300\/20.to-black-800\/30.via-black-700\/20.from-black-900\/30.bg-gradient-to-br.duration-300.transition-all.p-2.rounded-lg.w-full.border
+frembed.sbs##.mt-16.lg\:block.hidden > .\!text-black.\!bg-white.ease-in-out.duration-300.transition-transform.z-40.p-4.overflow-y-auto.h-full.w-80.left-0.top-0.lg\:static.fixed.lg\:block.lg\:relative.lg\:translate-x-0.-translate-x-full > .border-gray-600.border.rounded-2xl.overflow-hidden.lg\:mt-0.mt-16
+
+dlhd.dad##+js(set-local-storage-item, 'debugger_banned222222', '0')
+
+! Sep 30, 2025 https://streamed.st
+streamed.st##.bg-primary\/10.dark\:border-primary.text-primary.border-primary\/50.font-medium.py-2.px-8.border-b.border-t-0.border-x-0.rounded-none.relative.\[\&\>svg\~\*\]\:pl-7.\[\&\>svg\]\:top-4.\[\&\>svg\]\:left-4.\[\&\>svg\]\:absolute.p-4.border.w-full.\[\&\>svg\]\:text-foreground
+
+@@||stream-us-east-1.getpublica.com^
 
