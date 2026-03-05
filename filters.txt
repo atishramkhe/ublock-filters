@@ -898,3 +898,10 @@ streamed.st##.bg-primary\/10.dark\:border-primary.text-primary.border-primary\/5
 ! Oct 7, 2025 https://azrogo.com
 azrogo.com##.adbn-wrap
 
+! DaddyLive - whitelist reCAPTCHA + stream endpoints
+@@||google.com/recaptcha^$domain=adffdafdsafds.sbs|dlstreams.top|dlhd.dad|dlhd.link
+@@||gstatic.com/recaptcha^$domain=adffdafdsafds.sbs|dlstreams.top|dlhd.dad|dlhd.link
+@@||go.ai-chatx.site^$domain=adffdafdsafds.sbs|dlstreams.top|dlhd.dad|dlhd.link
+@@||chevy.vovlacosa.sbs^$domain=adffdafdsafds.sbs|dlstreams.top|dlhd.dad|dlhd.link
+@@||key.keylocking.ru^$domain=adffdafdsafds.sbs|dlstreams.top|dlhd.dad|dlhd.link
+@@||security.giokko.ru^$domain=adffdafdsafds.sbs|dlstreams.top|dlhd.dad|dlhd.link
